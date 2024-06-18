@@ -1,0 +1,6 @@
+[requires]
+ortools/9.9@ibralg/develop
+
+[generators]
+CMakeDeps
+CMakeToolchain

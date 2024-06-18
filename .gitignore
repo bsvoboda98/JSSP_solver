@@ -1,0 +1,6 @@
+conan/
+CMakeUserPresets.json
+cmake-build-debug/
+cmake-build-release/
+benchmark/
+ssh how to
